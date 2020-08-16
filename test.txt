@@ -1,0 +1,23 @@
+./project ronak try.txt
+./project  ronak *
+./project  -i atul try.txt
+./project  -i atul *
+./project  -c atul *
+./project  -n atul *
+./project  -b atul *
+./project  -f ptr.txt try.txt notexistfile.txt grep_v2.c
+./project  -m 3 ronak try.txt notexistfile.txt grep_v2.c
+./project  -o ronak try.txt notexistfile.txt grep_v2.c
+./project  -i -v -n atul try.txt notexistfile.txt try.txt
+./project -i -n -b -H ronak try.txt
+./project -i -n -b -H -c ronak try.txt
+./project -i -n -b -H -c ronak *
+./project -i -n -b -H -m 2 ronak *
+./project -i -n -b atul *
+./project -i -H atul try.txt
+./project -i -m1 atul *
+./project -i  -H -f ptr.txt try.txt
+./project -i -m1 -H atul *
+./project -q ptr.txt try.txt
+./project -q f unexistantfile try.txt
+

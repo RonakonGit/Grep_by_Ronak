@@ -1,0 +1,10 @@
+1: Knr : C programming 
+	- for basic syntax.
+2: abhijit sir (dsa sir) :
+	- for getopt().
+3: www.stackoverflow.com
+	- for understanding different errors and their solutions.
+4: man pages:
+	- for detailed discription and understanding commands.
+5: shantanu(IT senior) : 
+	- adivise regarding approach of solving problem .
